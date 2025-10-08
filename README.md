@@ -108,4 +108,4 @@ mcq/
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+We welcome contributions! 
